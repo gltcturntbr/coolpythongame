@@ -1,1 +1,1 @@
-totally cool game, made in python :)
+#totally cool game, made in python :)
